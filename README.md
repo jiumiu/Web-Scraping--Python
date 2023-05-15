@@ -1,3 +1,3 @@
 # Web Scraping--Python
  
-Extracting data from a web page using Pythos
+Extracting data from a web page using Python
