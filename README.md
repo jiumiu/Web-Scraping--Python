@@ -2,6 +2,7 @@
 
 Extracting data from a web page using Python is fun!
 
-This is educational purpose rather than commercial purpose.
+From this job search web page, company's name, position, region, salary, type of employment, and the link is scraped using BeautifulSoup4.
+\*This is educational purpose rather than commercial purpose.
 
 I refer to "https://remoteok.com/remote-python-jobs"
